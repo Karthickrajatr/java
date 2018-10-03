@@ -3,7 +3,7 @@ class Checknumber {
   public static void main(String[] args) {
   Scanner ka=new Scanner(System.in);
   float a;
-  System.out.println("Enter the number");
+  //System.out.println("Enter the number");
   a=ka.nextFloat();
   if(a==0)
   {
