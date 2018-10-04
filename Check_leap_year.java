@@ -8,11 +8,11 @@ public class Check_leap_year
     a=ka.nextInt();
    if(a%4==0) 
    {
-     System.out.println("Yes");
+     System.out.println("yes");
    }
    else
    {
-     System.out.println("No");
+     System.out.println("no");
    }
   }
 }
