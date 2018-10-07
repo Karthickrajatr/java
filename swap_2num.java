@@ -11,8 +11,8 @@ class Main
       temporaryVariable = firstNumber;
       firstNumber = secondNumber;
       secondNumber = temporaryVariable;
-      System.out.println(""+firstNumber);
-      System.out.println(""+ secondNumber);
+      System.out.println("\n"+firstNumber);
+      System.out.println("\n"+ secondNumber);
 
     } 
 } 
