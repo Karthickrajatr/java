@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main 
+public class swaping_usingbitwise
 {
     public static void main(String args[])
     {
