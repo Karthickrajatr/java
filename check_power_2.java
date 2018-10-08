@@ -6,6 +6,10 @@ public class check_power_2
     Scanner ka=new Scanner(System.in);
      int n;
      n=ka.nextInt();
+    if(n==1)
+    {
+      System.out.println("yes");
+    }
    if(n%2==0)
    {
      System.out.println("yes");
